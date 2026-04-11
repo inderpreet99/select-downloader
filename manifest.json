@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Download Selected Links",
+  "name": "Select Downloader",
   "version": "1.0",
   "description": "Right-click selected text to download links with custom naming.",
   "permissions": [
