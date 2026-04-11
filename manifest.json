@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Download Selected Links",
+  "version": "1.0",
+  "description": "Right-click selected text to download links with custom naming.",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting",
+    "downloads"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
