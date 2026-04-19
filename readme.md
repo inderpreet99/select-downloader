@@ -1,4 +1,6 @@
-# Download Selected Links - Chrome Extension
+# Select Downloader - Chrome Extension
+
+**Download Selected Links**
 
 A lightweight, customizable Chrome extension that allows you to highlight text on any webpage, extract all underlying hyperlinks, and download the associated files in bulk using a custom file naming structure.
 

@@ -3,6 +3,9 @@
   "name": "Select Downloader",
   "version": "1.0",
   "description": "Right-click selected text to download links with custom naming.",
+  "icons": {
+    "128": "icon_128.png"
+  },
   "permissions": [
     "contextMenus",
     "activeTab",
