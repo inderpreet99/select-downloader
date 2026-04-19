@@ -1,0 +1,12 @@
+{
+  "name": "select-downloader",
+  "version": "1.0.0",
+  "description": "Chrome extension to download selected links with a bundle script for publication.",
+  "private": true,
+  "scripts": {
+    "bundle": "node scripts/bundle.js"
+  },
+  "devDependencies": {
+    "archiver": "^5.3.1"
+  }
+}

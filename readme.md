@@ -27,7 +27,21 @@ Since this is an unpacked extension, you will need to load it manually into Chro
 5. Select the folder containing your extension files.
 6. The extension should now appear in your list of installed extensions.
 
-## 📖 Usage Guide
+## � Build / Bundle for Chrome Web Store
+
+1. Install Node dependencies:
+   ```bash
+   npm install
+   ```
+2. Create the published extension bundle:
+   ```bash
+   npm run bundle
+   ```
+3. Upload the generated `select-downloader.zip` file to the Chrome Web Store developer dashboard.
+
+> The bundler excludes development files like `package.json`, `package-lock.json`, and the `scripts/` folder.
+
+## �📖 Usage Guide
 
 1. Navigate to any webpage containing links you want to download.
 2. Click and drag your mouse to **highlight the text** containing the links.

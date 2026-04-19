@@ -1,0 +1,1 @@
+* Make it more user friendly. Provide a modal in which the user can provide a incrementing counter as it goes through the files.
